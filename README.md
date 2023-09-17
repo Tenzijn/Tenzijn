@@ -36,7 +36,7 @@
 <br>
 
 - **Web Development**:
-    <table>
+ <table>
       <tr>
       <td>
       <img src='https://github.com/Tenzijn/Tenzijn/assets/145247192/cdb6db5d-26ca-46ac-bfcc-42a1db7985d3' width='50px'>
@@ -62,7 +62,7 @@
       </td>
       </tr>
 
-    </table>
+ </table>
 
 <br>
 
