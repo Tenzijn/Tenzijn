@@ -1,18 +1,10 @@
-<h1 align="center"><b>Hi , I'm Tenzin Kunchok </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+ 
+<img src = "https://github.com/Tenzijn/Tenzijn/assets/145247192/b2ae6fc9-43e9-4995-a0f0-709657d1f532" >
 
-<p align='center'>
-  <img src = "https://github.com/Tenzijn/Tenzijn/assets/145247192/5a5c5ec3-1b93-4d2f-926c-e6d38f3fd0ea" > 
-</p>
+  <b>Hi , I'm Tenzin Kunchok </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-<picture>
-<p align='center'>
-  <img src = "https://github.com/Tenzijn/Tenzijn/assets/145247192/b2ae6fc9-43e9-4995-a0f0-709657d1f532" > 
-</p>
-</picture>
-
-<p align='center'>
-  <img src = "https://github.com/Tenzijn/Tenzijn/assets/145247192/5a5c5ec3-1b93-4d2f-926c-e6d38f3fd0ea" > 
-</p>
 
 - 💻 A passionate Self-taught Fullstack developer
 - 📍 Living in Amsterdam since 2022.
@@ -63,8 +55,8 @@
 
 - **Extras**:
 
- <img src='https://github.com/Tenzijn/Tenzijn/assets/145247192/915c5a86-2afa-4918-af45-89a6702121d8' width='50px'>
-</p>
+   <img src='https://github.com/Tenzijn/Tenzijn/assets/145247192/915c5a86-2afa-4918-af45-89a6702121d8' width='50px'>
+
 
 <br>
 
