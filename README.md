@@ -147,7 +147,7 @@
 <br>
 
 <div align = 'center'>
-<b>✨ བོད་རྒྱལ་ལོ། ✨</b>
+<b>✨ བོད་རྒྱལ་ལོ། ✨ BoD Gyal-Lo ✨ Free Tibet</b>
 </div>
 <br>
 <br>
