@@ -7,7 +7,7 @@
 </h1>
 
 - 💻 A passionate Self-taught Fullstack developer
-- 📍 Living in Amsterdam since 2022.
+- 📍 Living in Amsterdam since April 2022.
 - 👨‍🎓 Still in pursuit for lifelong learning.
 - 🌏 Personal website [link](https://tenzin.tibet.dev)
 - 🧑‍💻 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://tibet.dev)
