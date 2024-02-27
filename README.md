@@ -10,7 +10,7 @@
 - 📍 Living in Amsterdam since April 2022.
 - 👨‍🎓 Still in pursuit for lifelong learning.
 - 🌏 Personal website [link](https://tenzin.tibet.dev)
-- 🧑‍💻 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://tibet.dev)
+- 🧑‍💻 I’m currently open for an Intern or a new job opportunity
 
 <p align='center'>
   <img src = "https://github.com/Tenzijn/Tenzijn/assets/145247192/5a5c5ec3-1b93-4d2f-926c-e6d38f3fd0ea" > 
