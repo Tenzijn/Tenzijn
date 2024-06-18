@@ -36,31 +36,31 @@
 <br>
 
 - **Web Development**:
- <table>
-      <tr>
-      <td>
-      <img src='https://github.com/Tenzijn/Tenzijn/assets/145247192/cdb6db5d-26ca-46ac-bfcc-42a1db7985d3' width='50px'>
-      </td>
-      <td>
-      <img src='https://github.com/Tenzijn/Tenzijn/assets/145247192/8b872d1f-afc3-47b1-9fca-09edb2562cac' width='50px'>
-      </td>
-      <td>
-      <img src='https://github.com/Tenzijn/Tenzijn/assets/145247192/e2365424-8a67-4960-bf0c-b7b2d269b2e0' width='50px'>
-      </td>
-      </tr>
-      <tr>
-      <td>
-      <img src='https://github.com/Tenzijn/Tenzijn/assets/145247192/23367465-a7d8-4228-a47f-7aa4f2acf7ed' width='50px'>
-      </td>
-      <td>
+  <table>
+       <tr>
+       <td>
+       <img src='https://github.com/Tenzijn/Tenzijn/assets/145247192/cdb6db5d-26ca-46ac-bfcc-42a1db7985d3' width='50px'>
+       </td>
+       <td>
+       <img src='https://github.com/Tenzijn/Tenzijn/assets/145247192/8b872d1f-afc3-47b1-9fca-09edb2562cac' width='50px'>
+       </td>
+       <td>
+       <img src='https://github.com/Tenzijn/Tenzijn/assets/145247192/e2365424-8a67-4960-bf0c-b7b2d269b2e0' width='50px'>
+       </td>
+       </tr>
+       <tr>
+       <td>
+       <img src='https://github.com/Tenzijn/Tenzijn/assets/145247192/23367465-a7d8-4228-a47f-7aa4f2acf7ed' width='50px'>
+       </td>
+       <td>
 
-  <img src='https://github.com/Tenzijn/Tenzijn/assets/145247192/64d4e3e5-b6e4-4fa2-b3b8-9405b1a67bd5' width='50px'>
-      </td>
-      <td>
-         
-  <img src='https://github.com/Tenzijn/Tenzijn/assets/145247192/f47ef1d9-0ee7-4e3b-a3d1-4a702ea63f77' width='50px'>
-      </td>
-      </tr>
+   <img src='https://github.com/Tenzijn/Tenzijn/assets/145247192/64d4e3e5-b6e4-4fa2-b3b8-9405b1a67bd5' width='50px'>
+       </td>
+       <td>
+          
+   <img src='https://github.com/Tenzijn/Tenzijn/assets/145247192/f47ef1d9-0ee7-4e3b-a3d1-4a702ea63f77' width='50px'>
+       </td>
+       </tr>
 
  </table>
 
@@ -146,9 +146,6 @@
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-<div align = 'center'>
-<b>✨ བོད་རྒྱལ་ལོ། ✨ BoD Gyal-Lo ✨ Free Tibet ✨</b>
-</div>
 <br>
 <br>
 <!---
