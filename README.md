@@ -1,9 +1,4 @@
-<h1 align="center">
-
-  <b>Hi , I'm Tenzin Kunchok - ༼ བསྟན་འཛིན་དཀོན་མཆོག། ༽ </b><img
-    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-
-</h1>
+# Hi , I'm Tenzin Kunchok - ༼ བསྟན་འཛིན་དཀོན་མཆོག། ༽ </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 - 💻 A passionate Self-taught Fullstack developer
 - 📍 Living in Amsterdam since April 2022.
@@ -11,31 +6,17 @@
 - 🌏 Portfolio [link](https://tenzin.tibet.dev)
 - 🧑‍💻 I’m currently open for Junior Developer Position.
 
-<p align='center'>
-  <img src="https://github.com/Tenzijn/Tenzijn/assets/145247192/5a5c5ec3-1b93-4d2f-926c-e6d38f3fd0ea">
-</p>
+![Divider](./assets/line.gif)
 
 <img
-  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
-  width="25"><b> Skills</b>
+src="./assets/skill.webp"
+  width="25"> **Skills**:
+
+- **Languages**:
+
+<img src="./assets/c-plusplus.svg" width="50px">
 
 <br>
-
-<p align="center">
-
-  - **Languages**:
-<table>
-  <tr>
-    <td>
-      <img src='https://github.com/Tenzijn/Tenzijn/assets/145247192/2a5ab453-4759-4f89-80dc-e3526a86e055' width='50px'>
-    </td>
-    <td>
-      <img src='https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000' width='50px'>
-    </td>
-  </tr>
-</table>
-<br>
-
 - **Web Development**:
 <table>
   <tr>
