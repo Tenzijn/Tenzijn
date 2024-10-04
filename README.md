@@ -15,41 +15,47 @@ src="./assets/skill.webp"
 - **Languages**:
 
 <img src="./assets/c-plusplus.svg" width="50px">
-
+<!-- icons source devicon.dev -->
 <br>
 - **Web Development**:
 <table>
   <tr>
     <td>
-      <img src='https://github.com/Tenzijn/Tenzijn/assets/145247192/cdb6db5d-26ca-46ac-bfcc-42a1db7985d3' width='50px'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width='50px' alt='html5' />
     </td>
     <td>
-      <img src='https://github.com/Tenzijn/Tenzijn/assets/145247192/8b872d1f-afc3-47b1-9fca-09edb2562cac' width='50px'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width='50px' alt='css3'/>
     </td>
     <td>
-      <img src='https://github.com/Tenzijn/Tenzijn/assets/145247192/23367465-a7d8-4228-a47f-7aa4f2acf7ed' width='50px'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width='50px' alt='Javascript' />
     </td>
     <td>
-      <img src='https://github.com/Tenzijn/Tenzijn/assets/145247192/e2365424-8a67-4960-bf0c-b7b2d269b2e0' width='50px'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width='50px' alt='ReactJs'/>
     </td>
     <td>
-      <img src='https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000' width='50px'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width='50px' alt='TypeScript' />
+    </td>
+  </tr>
+  <tr>
+  <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"  width='50px' alt='nextJs'/>
+          
+  </td>
+  </tr>
+  <tr>
+    <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width='50px' alt='MySQL' />
+    </td>
+    <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width='50px' alt='mongoDB'/>
     </td>
   </tr>
   <tr>
     <td>
-      <img src='https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000' width='50px'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width='50px' alt='NodeJs'/>
     </td>
     <td>
-      <img src='https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000' width='50px'>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src='https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000' width='50px'>
-    </td>
-    <td>
-      <img src='https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000' width='50px'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width='50px' alt='expressJs'/>
     </td>
   </tr>
 </table>
@@ -62,30 +68,30 @@ src="./assets/skill.webp"
 <table>
   <tr>
     <td>
-      <img src='https://github.com/Tenzijn/Tenzijn/assets/145247192/64d4e3e5-b6e4-4fa2-b3b8-9405b1a67bd5' width='50px'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width='50px' alt='wordpress'/>
     </td>
     <td>
-      <img src='https://github.com/Tenzijn/Tenzijn/assets/145247192/e5901d4e-c621-4fcd-9442-b5df3e52d75b' width='50px'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width='50px' alt='bootstrap'/>
     </td>
     <td>
-      <img src='https://github.com/Tenzijn/Tenzijn/assets/145247192/8e9040c3-5509-43a9-a16b-4c8c4078fdb7' width='50px'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width='50px' alt='vscode'/>
     </td>
     <td>
-      <img src='https://github.com/Tenzijn/Tenzijn/assets/145247192/b4f25458-583c-49f8-9bc7-04513db9a4a2' width='50px'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width='50px' alt='npm'/>
     </td>
     <td>
-      <img src='https://github.com/Tenzijn/Tenzijn/assets/145247192/b4ede178-36c6-41fb-8dbb-847007948239' width='50px'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"  width='50px' alt='firebase'/>
     </td>
     <td>
-      <img src='https://github.com/Tenzijn/Tenzijn/assets/145247192/ce4ee82b-9631-43b6-98f1-cf5b7df06e41' width='50px'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" width='50px' alt='slack'/>
     </td>
   </tr>
   <tr>
     <td>
-      <img src='https://github.com/Tenzijn/Tenzijn/assets/145247192/5a167636-f33a-4bc7-ac7b-fbdd3102993f' width='50px'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width='50px' alt='git'/>
     </td>
     <td>
-      <img src='https://github.com/Tenzijn/Tenzijn/assets/145247192/6137fd37-ad5d-4964-8c5f-fd1909ac54bf' width='50px'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width='50px' alt='github'/>
     </td>
     <td>
       <img src='https://github.com/Tenzijn/Tenzijn/assets/145247192/9e2711d5-42e4-4db1-8532-f8327dcf4a4c' width='50px'>
