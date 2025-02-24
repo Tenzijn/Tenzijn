@@ -1,6 +1,6 @@
 # Hi , I'm Tenzin Kunchok - ༼ བསྟན་འཛིན་དཀོན་མཆོག། ༽ </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-- 💻 A passionate Self-taught Fullstack developer
+- 💻 A passionate Self-taught Fullstack Engineer.
 - 📍 Living in Amsterdam since April 2022.
 - 👨‍🎓 Still in pursuit for lifelong learning.
 - 🌏 Portfolio [link](https://tenzin.tibet.dev)
