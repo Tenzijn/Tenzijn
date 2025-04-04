@@ -4,7 +4,7 @@
 - 📍 Living in Amsterdam since April 2022.
 - 👨‍🎓 Still in pursuit for lifelong learning.
 - 🌏 Portfolio [link](https://tenzin.tibet.dev)
-- 🧑‍💻 I’m currently Working at [Homerun](https://homerun.co) as Fullstack Engineer.
+- 🧑‍💻 I’m currently Working at [Homerun](https://homerun.co) as Junior Fullstack Engineer.
 
 ![Divider](./assets/line.gif)
 
